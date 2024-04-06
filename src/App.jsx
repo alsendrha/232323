@@ -4,7 +4,7 @@ function App() {
 
 
   return (
-    <div>하하ㅘㅗㅘㅗㅗ</div>
+    <div>하하</div>
   )
 }
 
