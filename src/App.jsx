@@ -4,7 +4,7 @@ function App() {
 
 
   return (
-    <div>jkkjkjk</div>
+    <div>jjk</div>
   )
 }
 
